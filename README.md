@@ -38,7 +38,7 @@ This project aims to detect fake news using Natural Language Processing (NLP) te
 
 1️⃣ Clone Repository
 ```bash
-git clone [Click here to view project](https://github.com/AkankshaY05/FakeNewsClassifier-using-lr-rf-xgb-and-lstm.git)
+git clone https://github.com/AkankshaY05/FakeNewsClassifier-using-lr-rf-xgb-and-lstm.git
 cd fake-news-project
 ```
 2️⃣ Create Virtual Environment
